@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroHLTavares
-- 👀 I’m interested in Data Science, Statistics, Power BI, Python, SQL
-- 🌱 I’m currently doing projects about Data Science and BI
+- 👀 I’m interested in BI, Statistics, Power BI, Python, SQL
+- 🌱 I’m currently doing projects about BI
 - 💞️ I’m looking to collaborate on BI
 - 📫 How to reach me pedro.l.tavares@hotmail.com
 
